@@ -1,4 +1,20 @@
-.verde{
-    background-color: rgb(47, 239, 47);
-    color:azure;
+/* Clases de color */
+.color-0 {
+    background-color: rgb(47, 239, 47) !important; /* Verde */
+    color: azure;
+}
+
+.color-1 {
+    background-color: rgb(47, 139, 239) !important; /* Azull */
+    color: white;
+}
+
+.color-2 {
+    background-color: rgb(239, 239, 47) !important; /* Amarillo */
+    color: black;
+}
+
+.color-3 {
+    background-color: rgb(239, 47, 47) !important; /* Rojo */
+    color: white;
 }
